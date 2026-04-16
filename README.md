@@ -25,3 +25,6 @@ Continue adding additional headers below this one for future weeks and future ac
 
 ### Activity 2:
 1- You can create it in the game controller and access it through the walrus
+2- Using at least one Debu.Log() helped with my test in my graphs to let me know whether an event was being triggered or not
+3- The set cursor lock state is relevant to my vertical slice because my PC will be talking to NPC's
+4- Game state is relevant to my vertical slice because certain states will restrict my user from doing things. Many states have to be mutually exclusive.
