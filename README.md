@@ -28,3 +28,10 @@ Continue adding additional headers below this one for future weeks and future ac
 2- Using at least one Debu.Log() helped with my test in my graphs to let me know whether an event was being triggered or not
 3- The set cursor lock state is relevant to my vertical slice because my PC will be talking to NPC's
 4- Game state is relevant to my vertical slice because certain states will restrict my user from doing things. Many states have to be mutually exclusive.
+
+## W4
+
+### Activity 1: 
+My playtesting goal is to figure out what else to add on top of what I have besides movement and being able to look around, additionally implementing movement relative to where I am looking. Currently, the user can move forward, backwards and side to side, but while the camera moves, the player body doesn't move relative to the camera position (where the camera is facing). I would like to fix this issue for the milestone assignment. 
+Playtest notes:
+add rigidbody, fix camera, add timer and different finite state machines
