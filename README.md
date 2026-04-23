@@ -37,3 +37,7 @@ Playtest notes:
 add rigidbody, fix camera, add timer and different finite state machines
 
 ### Acitvity 2:
+
+1. Yes because the logic uses scriptable objects which can store data and add more
+2. There is no limit to the amount of dialogue nodes that the writer could create without writing any code
+3. It also helps fix issues where nodes are missing, broken, or showing errors because the script changed
