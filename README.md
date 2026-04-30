@@ -61,6 +61,6 @@ Navmesh table
     1. using the transform of a "dummy"
         1. Test the navmesh agent to move towards said "dummy"
         2. make sure it works
-    2. change the "goal" to random locations within space to make NPC move around
-    
+    2. change the "goal" to the player transform.
+
 
