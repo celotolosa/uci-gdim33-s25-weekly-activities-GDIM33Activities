@@ -66,4 +66,6 @@ Navmesh table
     1. Get the sourceposition, targetposition, and hit set up
     2. Script and plug in values in the inspector.
 
+### Activity 2:
 
+In class, I created the NavMesh Surface as well as a NavMesh Agent for the NPC who follows the player around. I got it to follow a specific target before following a player, and will implement random locations before the player can find them. Additionally, I implemented a raycast system to detect when the NPC finds the player, and diffeernt outputs will happen in further sessions.
