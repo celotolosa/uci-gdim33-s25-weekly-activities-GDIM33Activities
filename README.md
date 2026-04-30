@@ -41,3 +41,26 @@ add rigidbody, fix camera, add timer and different finite state machines
 1. Yes because the logic uses scriptable objects which can store data and add more
 2. There is no limit to the amount of dialogue nodes that the writer could create without writing any code
 3. It also helps fix issues where nodes are missing, broken, or showing errors because the script changed
+
+## W5
+
+### Activity 0:
+
+Navmesh table
+
+### Activity 1:
+
+1. Add Navmesh/NavMeshAgent
+    1. In the inspector wnidow, Add component
+    2. Select Navigation > NavMesh Surface
+    3. Specify details in the settings
+    4. click Bake
+    5. Creating NavMeshAgent
+        1. Create a game object, and add the navmesh agent component (Component > Navigation > NavmeshAgent)
+2. Test NavmeshAgent navigation
+    1. using the transform of a "dummy"
+        1. Test the navmesh agent to move towards said "dummy"
+        2. make sure it works
+    2. change the "goal" to random locations within space to make NPC move around
+    
+

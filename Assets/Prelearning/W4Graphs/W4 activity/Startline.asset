@@ -13,4 +13,8 @@ MonoBehaviour:
   m_Name: Startline
   m_EditorClassIdentifier: 
   Line: HELLO THIS IS THE START
-  ReplyOptions: []
+  ReplyOptions:
+  - line: Reply 1
+    nextNode: {fileID: 11400000, guid: aa8affe1a43428049a6348bf7d34dd47, type: 2}
+  - line: Reply 2
+    nextNode: {fileID: 11400000, guid: b9eab0b3507848949b16ccf1fa1f1ef4, type: 2}
