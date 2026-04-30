@@ -62,5 +62,8 @@ Navmesh table
         1. Test the navmesh agent to move towards said "dummy"
         2. make sure it works
     2. change the "goal" to the player transform.
+3. Work on Raycastaing
+    1. Get the sourceposition, targetposition, and hit set up
+    2. Script and plug in values in the inspector.
 
 
