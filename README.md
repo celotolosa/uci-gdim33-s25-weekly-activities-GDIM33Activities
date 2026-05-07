@@ -82,3 +82,6 @@ Chasing state for NPC that stops when within a certain distance
 New map assets (cave)
 
 ([Playtest 2 Link]https://celotolosa.itch.io/playtest-2)
+
+Playtest Notes:
+Users who played my game mentioned that I need a gameplay loop, and I need to finish creating my map. I also need to finish creating the NPC dialogue and find out how to create a minigame by the next playtest. Just doing NPC dialogue isn't enough. I will definitely dedicate much more time to the creation of the next build. For now, I need to create a map that one can navigate, create VFX, have NPC Dialogue, and have the minigame at least STARTED.
