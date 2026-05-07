@@ -62,10 +62,23 @@ Navmesh table
         1. Test the navmesh agent to move towards said "dummy"
         2. make sure it works
     2. change the "goal" to the player transform.
-3. Work on Raycastaing
+3. Work on Raycasting
     1. Get the sourceposition, targetposition, and hit set up
     2. Script and plug in values in the inspector.
 
 ### Activity 2:
 
 In class, I created the NavMesh Surface as well as a NavMesh Agent for the NPC who follows the player around. I got it to follow a specific target before following a player, and will implement random locations before the player can find them. Additionally, I implemented a raycast system to detect when the NPC finds the player, and diffeernt outputs will happen in further sessions.
+
+## W6
+
+### Activity 1:
+
+Playtesting goals include finding bugs in the movement of my player character, as well as what can be improved visually regarding the map. I currently don't have a map that I have completed, but I wanted to use cave assests to create an eerie environment. Currently have the mechanics down, but I will have the NPC dialogue and Nodes ready for next week. 
+
+What is NEW? 
+Animations (walking/idle) for both NPC and Player
+Chasing state for NPC that stops when within a certain distance
+New map assets (cave)
+
+([Playtest 2 Link]https://celotolosa.itch.io/playtest-2)
