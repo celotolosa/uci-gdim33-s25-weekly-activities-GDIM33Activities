@@ -87,4 +87,7 @@ Playtest Notes:
 Users who played my game mentioned that I need a gameplay loop, and I need to finish creating my map. I also need to finish creating the NPC dialogue and find out how to create a minigame by the next playtest. Just doing NPC dialogue isn't enough. I will definitely dedicate much more time to the creation of the next build. For now, I need to create a map that one can navigate, create VFX, have NPC Dialogue, and have the minigame at least STARTED.
 
 ### Activity 2:
-
+1. The multiply setting of the blend node make the resulting color darker and less saturdated because it multiplies the values of the RGB, making the color more dull
+2. If we use multiply to combine alpha values, I believe the resulting value will be more transluscent, because when the alpha value increases, it becomes more oqaque.
+3. The Shader gets these UV Vvalues from the material
+4. Yes it sounds interesting!
