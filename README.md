@@ -91,3 +91,13 @@ Users who played my game mentioned that I need a gameplay loop, and I need to fi
 2. If we use multiply to combine alpha values, I believe the resulting value will be more transluscent, because when the alpha value increases, it becomes more oqaque.
 3. The Shader gets these UV Vvalues from the material
 4. Yes it sounds interesting!
+
+## W7
+
+1. The vertex color data comes from the mesh itself, each vertex in the Shiba mesh stores types of data: position, normal, tangent, color and UV
+2. Even though color is stored per - vertex the GPU interpolates values across the surface of each polygon between adjacent vertics. The fragment shader recieves a blended mix of each color
+3. Vertex color resolution is limited by the number of vertices on the mesh and get one color value per vertex. A textrue gives more detail, while vertex color might be useful for things like color region masking
+4. Yes, the shiba's back-left leg shows a slight bug in normal view. The normals on that part may be incorrect
+5. UV coordinates would be a userful one to visualize. The map of the U and V values can be mapped to the R and G channels
+6. The back left leg is inforrect vertex normals since the lighting calculation uses those normals to determine how much light hits the surface
+7. Additie blending allows for the shader's output color on top of what is already in the frambuffer behind it rather than replacing it.
