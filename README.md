@@ -101,3 +101,15 @@ Users who played my game mentioned that I need a gameplay loop, and I need to fi
 5. UV coordinates would be a userful one to visualize. The map of the U and V values can be mapped to the R and G channels
 6. The back left leg is inforrect vertex normals since the lighting calculation uses those normals to determine how much light hits the surface
 7. Additie blending allows for the shader's output color on top of what is already in the frambuffer behind it rather than replacing it.
+
+## W8
+
+Playtest expectations:
+- I want to know how the movement is
+- what can I do to the UI to improve it/polish
+
+Playtest Notes:
+- Fix typo
+- Fix camera rotation to see the user rather than just the sky
+- Possibly make character a little smoother
+- make player chocies in the middle of the screen rather than to the left
