@@ -105,7 +105,7 @@ Users who played my game mentioned that I need a gameplay loop, and I need to fi
 ## W8
 
 ### Activity 1:
-Playtest expectations:
+Playtest goals:
 - I want to know how the movement is
 - what can I do to the UI to improve it/polish
 
