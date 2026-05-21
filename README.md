@@ -104,6 +104,7 @@ Users who played my game mentioned that I need a gameplay loop, and I need to fi
 
 ## W8
 
+### Activity 1:
 Playtest expectations:
 - I want to know how the movement is
 - what can I do to the UI to improve it/polish
@@ -113,3 +114,9 @@ Playtest Notes:
 - Fix camera rotation to see the user rather than just the sky
 - Possibly make character a little smoother
 - make player chocies in the middle of the screen rather than to the left
+
+### Activity 2C:
+
+1. The name of the pass created is called FinalBlit. I can tell by clicking on the pass
+2. When the float is changed in lerp from 0, 0.5, and 1, the "opaque-ness" of the cobllestone effect changes with every value change.
+
