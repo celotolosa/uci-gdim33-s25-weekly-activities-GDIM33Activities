@@ -119,4 +119,6 @@ Playtest Notes:
 
 1. The name of the pass created is called FinalBlit. I can tell by clicking on the pass
 2. When the float is changed in lerp from 0, 0.5, and 1, the "opaque-ness" of the cobllestone effect changes with every value change.
+3. The Lerp value changes the opaqueness of the fullscreen effect.
+4. The algorithm for the lerp armount uses (sin(time) +1) /2 instead of sin(time) because sin(time) + 1 /2 takes values between 0-1.
 
