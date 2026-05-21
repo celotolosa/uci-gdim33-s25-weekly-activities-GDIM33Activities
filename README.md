@@ -108,6 +108,8 @@ Users who played my game mentioned that I need a gameplay loop, and I need to fi
 Playtest goals:
 - I want to know how the movement is
 - what can I do to the UI to improve it/polish
+- How can the UI in the dialogue be improved
+- any bugs?
 
 Playtest Notes:
 - Fix typo
