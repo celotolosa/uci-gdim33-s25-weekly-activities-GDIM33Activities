@@ -124,3 +124,22 @@ Playtest Notes:
 3. The Lerp value changes the opaqueness of the fullscreen effect.
 4. The algorithm for the lerp armount uses (sin(time) +1) /2 instead of sin(time) because sin(time) + 1 /2 takes values between 0-1.
 
+## W9
+
+Wasn't in class, got excused
+
+## W10
+
+### Activity 1:
+Playtest goals:
+- Find any bugs that make the game feel "unnatural" or buggy
+- How is the lighting?
+- What type of music would go well with the game (genre-wise)
+- Is the sensitivity too high or low?
+- Is the white dialogue background too contrasting?
+- Is the minigame fun?
+
+NEW BUILD: ([Week 10 Playtest link]https://celotolosa.itch.io/week-10-playtest)
+
+
+
