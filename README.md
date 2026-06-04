@@ -156,4 +156,6 @@ Planning Process:
 - From the systems that you decide to implement, create breakdown charts with attributes and methods that correlate with eachother. Make sure that your code includes systems like singletons, locators, scriptable objects, inheritance (polymorphism) for decoupling and scalability.
 - Per week (and basd off of your macro/burndown chart), make sure to playtest every other week (so 5 times in 10 weeks). Get input from people who don't play games, do play games, and people who have tried your game before, and haven't tried. Create playtest goals, and make sure to write notes while the playtester is playing. 
 - Follow your macro/burndown chart and if there's any changes make sure to update your breakdowns and tasks at hand.
+- Planning game a game, break down to its core mechanics. Break those core mechanics to smaller bubbles, and if your game has systems and mechanics it gets in the way of your game scope. Minimize the amount of mechanics/systems because it becomes overwhelming. Make sure to focus on mechanics that are doable rather than doing them out of ambition.
+- Your game is nothing until it's playable
 
