@@ -141,5 +141,19 @@ Playtest goals:
 
 NEW BUILD: ([Week 10 Playtest link]https://celotolosa.itch.io/week-10-playtest)
 
+Playtest Notes:
 
+The sensitivity is not too high or too low.
+
+### Activity 2:
+
+Planning Process:
+- Think of your game idea, and come up with the game's objectives, mechanics, systems, gameplay loop.
+- Create a macro/burndown chart for your project's scope.
+    - If it's 10 weeks long, write out how many hours you decide to put in per week on different parts of your game
+        - split up your weeks into different system (mechanics, gameplay, features, systems)
+- From this macro/burndown chart, make steps/substeps similar to the in-class activities so you know how to go about working on the project each week. 
+- From the systems that you decide to implement, create breakdown charts with attributes and methods that correlate with eachother. Make sure that your code includes systems like singletons, locators, scriptable objects, inheritance (polymorphism) for decoupling and scalability.
+- Per week (and basd off of your macro/burndown chart), make sure to playtest every other week (so 5 times in 10 weeks). Get input from people who don't play games, do play games, and people who have tried your game before, and haven't tried. Create playtest goals, and make sure to write notes while the playtester is playing. 
+- Follow your macro/burndown chart and if there's any changes make sure to update your breakdowns and tasks at hand.
 
